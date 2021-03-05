@@ -1,5 +1,23 @@
+!Corporate domains
+spicers.ca
+spicerscanada.ca
+shipperssupply.com
+label-graphics.com
+allgraphicsupplies.com
+rite-media.com
+cng-inc.com
+spicers.com
+!IT Service Providers & Partners
 mimecast.com
 umbrella.com
+opendns.com
 cisco.com
 fortinet.com
 microsoft.com
+office.com
+azure.com
+msedge.net
+windows.com
+report-uri.com
+zerto.com
+veeam.com
