@@ -9,6 +9,8 @@ cng-inc.com
 spicers.com
 !IT Service Providers & Partners
 mimecast.com
+proofpoint.com
+dmarcanalyzer.com
 umbrella.com
 opendns.com
 cisco.com
@@ -21,3 +23,8 @@ windows.com
 report-uri.com
 zerto.com
 veeam.com
+mxtoolbox.com
+vmware.com
+hpe.com
+prtg.com
+paessler.com
