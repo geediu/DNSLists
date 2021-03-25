@@ -1,4 +1,3 @@
-!Corporate domains
 spicers.ca
 spicerscanada.ca
 shipperssupply.com
@@ -7,7 +6,6 @@ allgraphicsupplies.com
 rite-media.com
 cng-inc.com
 spicers.com
-!IT Service Providers & Partners
 mimecast.com
 proofpoint.com
 dmarcanalyzer.com
